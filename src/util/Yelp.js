@@ -1,7 +1,6 @@
 import React from 'react';
 
-const apiKey =
-  'c6U7NF1bhTgI3V3KcgZaK-YI1sqcIRKRFV1_wwf8WMXMZ-1tNdAFXzi0q6idHSkiFr5Z5KHDlkVuhicswCjDhtoTLSPfl_lk6Egs2TMiV8eieAAecKJsFri3mK32XXYx';
+const apiKey = 'ADD KEY HERE';
 
 class Yelp extends React.Component {
   static search = (term, location, sortBy) => {
